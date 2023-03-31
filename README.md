@@ -1,3 +1,7 @@
+[medium article](https://medium.com/mlearning-ai/how-to-turn-yourself-into-pixar-character-using-stable-diffusion-ai-e0c010c2a631)
+
+
+
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
 
